@@ -1,0 +1,95 @@
+header{
+	padding:5px
+    width: 100%;
+	height: 100px;
+	background-color:pink;
+}
+h1{
+	display: inline-block;
+	width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    background-color:white;
+}
+nav{
+	width:7%;
+	height:600px; 
+	background-color: yellow;
+	font-size: 50px;
+}	
+.container{
+	height:549px;
+	width: 92%;
+	background-color: black;
+	margin-left:102px;
+	margin-top:-46% 
+}
+.text{
+	height: 122px;
+	width: 309px;
+	background-color: grey;
+	margin-left:100px;
+	margin-top:7px;
+	position: absolute;
+	position: relative;
+	top:10px;
+
+}
+.text2{
+    height: 122px;
+   	width: 309px;
+	background-color: grey;
+	margin-left:400px;
+	margin-top:7px;
+	position: absolute;
+	position: relative;
+	top: -130px;
+	left:371px;
+
+}
+.one{
+
+    width: 245px;
+	height:100px;
+	background-color: white;
+	margin-left: 200px;
+	margin-top:-10px;
+}
+
+.two{
+    width: 239px;
+	height:95px;
+	background-color: white;
+	margin-left: 335px;
+	margin-top:-10px;
+	position: relative;
+	top:-107px;
+	left: 161px;
+   
+}
+.three{
+    width: 239px;
+	height:95px;
+	background-color: white;
+	margin-left: 335px;
+	margin-top:-10px;
+	position: relative;
+	top:-209px;
+	left: 447px;
+
+}
+
+footer{
+	 width: 100%;
+	height: 60px;
+	padding: 10px;
+    margin-top: 30px;
+	text-align: center;
+	background-color:pink;
+
+}
+
+
+
+
+
